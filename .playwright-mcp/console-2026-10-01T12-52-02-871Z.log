@@ -1,0 +1,11 @@
+[      13ms] [LOG] {$$typeof: Symbol(react.element), type: , key: null, ref: null, props: Object} @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:0
+[      17ms] [LOG] {$$typeof: Symbol(react.element), type: , key: null, ref: null, props: Object} @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:0
+[     105ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://rahulshettyacademy.com/seleniumPractise/////////////////////favicon.ico:0
+[   30372ms] [LOG] 1 @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:5
+[   30372ms] [LOG] [Object] @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:5
+[   92028ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://rahulshettyacademy.com/seleniumPractise/////////////////////favicon.ico:0
+[  106389ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://rahulshettyacademy.com/seleniumPractise/////////////////////favicon.ico:0
+[  106389ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://rahulshettyacademy.com/seleniumPractise/////////////////////favicon.ico:0
+[  157353ms] [LOG] {$$typeof: Symbol(react.element), type: , key: null, ref: null, props: Object} @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:0
+[  157360ms] [LOG] {$$typeof: Symbol(react.element), type: , key: null, ref: null, props: Object} @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:0
+[  157502ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://rahulshettyacademy.com/seleniumPractise/////////////////////favicon.ico:0

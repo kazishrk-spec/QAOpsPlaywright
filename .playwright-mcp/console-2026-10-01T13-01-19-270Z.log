@@ -1,0 +1,7 @@
+[     639ms] [LOG] {$$typeof: Symbol(react.element), type: , key: null, ref: null, props: Object} @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:0
+[     646ms] [LOG] {$$typeof: Symbol(react.element), type: , key: null, ref: null, props: Object} @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:0
+[    7849ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://rahulshettyacademy.com/seleniumPractise/////////////////////favicon.ico:0
+[   21646ms] [LOG] quantity added... @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:5
+[   36452ms] [LOG] 1 @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:5
+[   36453ms] [LOG] [Object] @ https://rahulshettyacademy.com/seleniumPractise/main.72d06032ddde0bb58142.js:5
+[   57904ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://rahulshettyacademy.com/seleniumPractise/////////////////////favicon.ico:0
