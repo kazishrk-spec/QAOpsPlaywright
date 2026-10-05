@@ -15,9 +15,7 @@ jobs:
         node-version: lts/*
     - name: Install dependencies
       run: npm ci
-
-  # THis is commented out because the playwright install step is not needed if the browsers are already installed in the environment. Uncomment if you need to install browsers.
-
+    # THis is commented out because the playwright install step is not needed if the browsers are already installed in the environment. Uncomment if you need to install browsers.
     # - name: Install Playwright Browsers
       # run: npx playwright install --with-deps
     - name: Azure login
