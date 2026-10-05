@@ -31,7 +31,9 @@ jobs:
           npx playwright test --config=playwright.config.js --workers=4
           --shard=${{ matrix.shardIndex }}/${{ matrix.shardTotal }}
           --reporter=blob
- 
+          
+   #  Upload the blob report for this shard:
+
       - name: Upload blob report
         if: ${{ !cancelled() }}
         uses: actions/upload-artifact@v4
